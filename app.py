@@ -43,6 +43,9 @@ HTML = """
             <li>{{ ad }}</li>
         {% endfor %}
     </ul>
+    <div style="position: fixed; bottom: 10px; right: 10px; font-size: 14px; color: #555;">
+    Zehra Aralık
+    </div>
 </body>
 </html>
 """
